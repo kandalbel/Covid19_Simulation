@@ -1,2 +1,2 @@
 # Covid19_Simulation
-Covid19 spreading and recover simulation
+Covid19 spreading and recovery simulation
